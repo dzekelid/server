@@ -30,7 +30,7 @@ apis:
   tags: Server
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-identity-and-access-management/action-deleteservercertificate-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-identity-and-access-management/action-getservercertificate-get.md
 x-common:
 - type: x-change-log
   url: http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=323
