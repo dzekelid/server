@@ -27,7 +27,7 @@ apis:
   tags: Server
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-server-migration-service/action-getservers-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-server-migration-service/action-importservercatalog-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/server-migration-service/latest/userguide/cli_workflow.html
