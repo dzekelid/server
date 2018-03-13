@@ -32,7 +32,7 @@ apis:
   tags: Server
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-auto-scaling/action-attachinstances-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-auto-scaling/action-detachinstances-get.md
 x-common:
 - type: x-articles
   url: http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=100
