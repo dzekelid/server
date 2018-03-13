@@ -33,7 +33,7 @@ apis:
   tags: Server
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-ec2/action-stopinstances-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-ec2/action-unmonitorinstances-get.md
 x-common:
 - type: x-code
   url: http://aws.amazon.com/code/Amazon-EC2/
