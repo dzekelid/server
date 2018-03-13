@@ -16,7 +16,18 @@ created: "2018-03-13"
 modified: "2018-03-13"
 url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-server-migration-service/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Server Migration Service API
+  description: AWS Server Migration Service (SMS) is an agentless service which makes
+    it easier and faster for you to migrate thousands of on-premises workloads to
+    AWS
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AMI.png
+  humanURL: ""
+  baseURL: :///
+  tags: Server
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/aws-server-migration-service/action-getservers-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/server-migration-service/latest/userguide/cli_workflow.html
