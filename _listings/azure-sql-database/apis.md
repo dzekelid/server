@@ -23,7 +23,7 @@ apis:
   tags: Server
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/azure-sql-database/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-sql-servers-servername-firewallrules-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/server/master/_listings/azure-sql-database/subscriptions-subscriptionid-providers-microsoft-sql-servers-get.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/sql-database/
